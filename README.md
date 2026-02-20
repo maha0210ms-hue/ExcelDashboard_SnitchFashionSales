@@ -1,5 +1,5 @@
 ## ExcelDashboard_SnitchFashionSales
-The objective of this project is to analyze Snitch Fashion’s sales performance data to identify key revenue drivers, customer purchasing patterns, and product category trends. The project aims to uncover insights related to sales growth, profitability, discount impact, and regional performance in order to support data-driven business decisions and improve overall operational efficiency.
+The objective of this project is to analyze Snitch Fashion sales performance data to identify key revenue drivers, customer purchasing patterns, and product category trends. The project aims to uncover insights related to sales growth, profitability, discount impact, and regional performance in order to support data-driven business decisions and improve overall operational efficiency.
 ## Application Used
 MS Excel 2021
 ## Steps Followed
